@@ -1,0 +1,13 @@
+.form {
+  padding: 25px;
+  display: block;
+  justify-content: center;
+  margin: 10px;
+  background-color: #FFFF00;
+  font-family: 'Questrial', cursive;
+}
+
+.text {
+  width: 500px;
+  height: auto;
+}
